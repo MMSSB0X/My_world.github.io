@@ -1,0 +1,70 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#0280E1; } 
+a:visited { color:#0280E1; } 
+a:active { color:#0280E1; } 
+a:hover { color:#B2B3B4; } 
+#menu_b61e83 a { text-decoration: none; }
+#menu_b61e83_pane { background-color: #2C2C2C; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_b61e83_hr { background-color: #646464; height: 1px; border: none; }
+#menu_b61e83_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_b61e83_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_b61e83_entry:hover span { color:#FFFFFF !important; }
+		.menu_b61e83_mainMenuEntry { text-align: center; }
+		.menu_b61e83_mainMenuEntry:hover {	background-color:#FFFFFF; }
+		.menu_b61e83_mainMenuEntry:hover span {	color:#808080 !important; }
+		#menu_b61e83 .mobileEntry { display: none; } 
+		#menu_b61e83 .normalEntry { display: block; } 
+		@media only screen and (max-width:640px) { 
+			#menu_b61e83 .mobileEntry { display: block; } 
+			#menu_b61e83 .normalEntry { display: none; } 
+		}
+body { background-color:#000000; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_3610c831 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1826px; max-width:1600px; background-color:#000000;  }
+#container_63ce59bf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:65px; background-color:#000000;  }
+#container_63ce59bf_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:right; }
+#menu_b61e83 { vertical-align: bottom; position:relative; display: inline-block; width:296px; height:38px; text-align:left; background:none;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:44px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:64px;  }
+.textstyle3 { font-size:36pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:62px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
+.textstyle4 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:62px; height:38px; left:72px;  }
+.menustyle4 { position:absolute; width:73px; height:38px; left:134px;  }
+.menustyle5 { position:absolute; width:81px; height:38px; left:207px;  }
+.textstyle5 { font-size:14pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
+.textstyle6 { text-align:left; }
+#container_3ac38fd0 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:214px; background:none;  }
+#container_3ac38fd0_padding { margin: 10px; display: block;  }
+#img_5430907c { vertical-align: bottom; position:relative; display: inline-block; width:36%; background:none; height:auto;  }
+#container_7aff6f25 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
+#container_7aff6f25_padding { margin: 10px; display: block;  }
+.textstyle7 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 4px #000000;  }
+#container_7a967b52 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:370px; background-color:#000000; background-position:center center; background-size:cover;  }
+.textstyle8 { font-size:32pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#img_6fe1e855 { vertical-align: bottom; position:relative; display: inline-block; width:5%; background:none; height:auto;  }
+#img_4b35f039 { vertical-align: bottom; position:relative; display: inline-block; width:22%; background:none; height:auto;  }
+.textstyle9 { font-size:32pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+#img_7bb89573 { vertical-align: bottom; position:relative; display: inline-block; width:5%; background:none; height:auto;  }
+#img_45067734 { vertical-align: bottom; position:relative; display: inline-block; width:5%; background:none; height:auto;  }
+.textstyle10 { font-size:32pt; font-family:Tahoma, Geneva, sans-serif; color:#FFFFFF;  }
+.textstyle11 { font-size:32pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
+.textstyle12 { font-size:32pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; line-height: 1.5;  }
+#container_4af4fd3 { vertical-align: top; position:relative; display: inline-block; float:left; width:100%; min-height:272px; background:none;  }
+#container_4af4fd3_padding { margin: 10px; display: block;  }
+#img_541cc4d { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
+#img_25c626af { vertical-align: bottom; position:relative; display: inline-block; width:18%; background:none; height:auto;  }
+.textstyle13 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle14 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+#img_892ebb7 { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
+#heading_7a1f4ea1 { vertical-align: bottom; position:relative; display: inline-block; width:861px; height:168px; background:none; font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:center;  }
+.textstyle15 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+@media only screen and (max-width: 640px)
+{
+		#menu_b61e83 { width:50px;  }
+		#container_3ac38fd0 * span { font-size:15pt;  }
+		#container_7aff6f25 * span { font-size:24pt;  }
+}
